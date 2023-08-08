@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "az-course-webapp-appsettings", "az-course-webapp-appsettings.csproj", "{8D7312EB-3461-4334-A471-1C482B0928BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D7312EB-3461-4334-A471-1C482B0928BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7312EB-3461-4334-A471-1C482B0928BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7312EB-3461-4334-A471-1C482B0928BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7312EB-3461-4334-A471-1C482B0928BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51B18DFB-882C-4A8F-A9AC-B4D093BEBDEC}
+	EndGlobalSection
+EndGlobal
