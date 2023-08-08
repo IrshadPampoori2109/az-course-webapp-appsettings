@@ -20,7 +20,8 @@ namespace az_course_webapp_appsettings.Controllers
 
         public IActionResult Privacy()
         {
-            return View();
+            throw new Exception("Application Insight testing");
+            //return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
