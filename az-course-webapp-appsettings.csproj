@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>az_course_webapp_appsettings</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/0eba51af-8e4b-4dac-b9a7-0210c54a89bf/resourceGroups/az-course-rg/providers/microsoft.insights/components/dev-az-course-webapp</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
