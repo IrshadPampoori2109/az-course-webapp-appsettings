@@ -6,5 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>az_course_webapp_appsettings</RootNamespace>
   </PropertyGroup>
-
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.21.0" />
+  </ItemGroup>
 </Project>
